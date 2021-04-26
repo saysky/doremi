@@ -1,7 +1,7 @@
 - 基于SpringBoot/SSM的物品租赁系统
 - 预览地址：[http://doremi.liuyanzhao.com](http://doremi.liuyanzhao.com)
 - 详细介绍地址：[https://liuyanzhao.com/shop/doremi.html](https://liuyanzhao.com/shop/doremi.html)
-
+- 包含SpringBoot和SSM2个版本
 
 ## 一、功能介绍
 ![1-功能图.png](img/功能图.png)
@@ -20,12 +20,11 @@
 11. 超管可以在财务统计里看到收支统计
 
 ## 二、技术组成
-- 1、SpringBoot
+- 1、SpringBoot 或 SSM
 - 2、MyBatis
 - 3、Thymeleaf
 - 4、Bootstrap
 - 5、MySQL
-- 6、Shiro
 
 ## 三、项目截图
 1-首页1.png
