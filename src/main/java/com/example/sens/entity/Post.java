@@ -82,4 +82,3 @@ public class Post extends BaseEntity {
     public String getStatusStr() {
         return PostStatusEnum.getMessage(this.postStatus);
     }
-}
